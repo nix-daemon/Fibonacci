@@ -7,7 +7,8 @@ int main() {
     int b = 1;
     int fib = 0;
 
-    cout<<"Please enter a positive integer greater than 1: ";
+//Commented out for gradescope purposes
+//    cout<<"Please enter a positive integer greater than 1: ";
     cin>>n;
 
     for (int i = 0; i < n; ++i) {
